@@ -1,0 +1,5 @@
+interface:
+  display_name: "Fish Cooking"
+  short_description: "Turn one source into platform-ready content"
+  default_prompt: "Use $fish-cooking to turn this transcript or long article into platform-specific topics first, then draft the selected pieces."
+
